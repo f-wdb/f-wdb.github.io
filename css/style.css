@@ -79,11 +79,11 @@ a {
 
 @media (min-width: 1200px) {
     body {
-        background-image: url('../background.jpg');
+        background-image: url('../background.webp');
     }
 }
 @media (max-width: 1200px) {
     body {
-        background-image: url('../background.jpg');
+        background-image: url('../background.webp');
     }
 }
