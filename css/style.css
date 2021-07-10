@@ -79,11 +79,11 @@ a {
 
 @media (min-width: 1200px) {
     body {
-        background-image: url('https://raw.githubusercontent.com/felixbread/felixbread.github.io/main/background.webp');
+        background-image: url('../background.jpg');
     }
 }
 @media (max-width: 1200px) {
     body {
-        background-image: url('https://raw.githubusercontent.com/felixbread/felixbread.github.io/main/background.webp');
+        background-image: url('../background.jpg');
     }
 }
