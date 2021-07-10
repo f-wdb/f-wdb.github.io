@@ -57,15 +57,15 @@ footer {
 .content-wrapper {
     margin: 0px 2.4%;
     padding: 5px;
-    color: #ddd;
+    color: #eee;
     margin-bottom: 32px;
 }
 
 .content-wrapper a {
-    color: #69a;
+    color: #99a;
 }
 .footer a {
-    color: #32b;
+    color: #12b;
 }
 
 a {
