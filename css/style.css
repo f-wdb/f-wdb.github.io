@@ -9,14 +9,14 @@ body {
     align-items: center;
     flex-direction: column;
     justify-content: center;
-    background: rgb(141,233,233);
-    background: linear-gradient(90deg, rgba(141,233,233,1) 0%, rgba(48,170,75,1) 51%, rgba(0,255,70,1) 100%);
+    background: rgb(241,233,233);
+    background: linear-gradient(90deg, rgba(241,233,233,1) 0%, rgba(148,170,75,1) 51%, rgba(0,255,70,1) 100%);
     background-size: cover;
     background-position: center;
 }
 
 .header {
-    background: #ff74d3;
+    background: #6072ec;
     margin: 0px;
     padding: 10px;
     text-align: center;
@@ -27,7 +27,7 @@ body {
     align-items: center;
 }
 footer {
-    background: #ff74d3;
+    background: #6072ec;
     margin: 0px;
     padding: 0px 6px;
     align-self: bottom;
